@@ -6,18 +6,16 @@ using UnityEngine.UI;
 public class AdventureGame : MonoBehaviour
 {
     [SerializeField] Text textComponent;
+    [SerializeField] State startingState;
+    State state;
+
+    int[] oddNumbers = { 1, 3, 5, 7, 9 };
 
     // Start is called before the first frame update
     void Start()
     {
-        textComponent.text = "Welcome to the Punchathon. Seven punchers enter. One puncher leaves.\n" +
-                             "You stand in a circle of contestants, each wearing a numbered shirt. " +
-                             "Your shirt reads 7. \n" +
-                             "PUNCHATHON BEGINS IN: 3..2..1 \n\n" +
-                             "Select an action:\n" +
-                             "1: Perform Ultimate Punch on contestant 6\n" +
-                             "2: Cry\n" +
-                             "3: Wait\n";
+        state = startingState;
+        textComponent.text = state.GetStateStory();
 
     }
 

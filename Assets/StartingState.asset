@@ -12,4 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c89c4239c1081405a989fbc1f8598583, type: 3}
   m_Name: StartingState
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'Welcome to the Punchathon. Seven punchers enter. One puncher leaves.
+
+
+    You
+    stand in a circle of contestants, each wearing a numbered shirt. Your shirt reads
+    7.
+
+
+    PUNCHATHON BEGINS IN: 3..2..1
+
+
+    Select an action:
+
+    1: Perform
+    Ultimate Punch on contestant 6
+
+    2: Cry
+
+    3: Wait'
