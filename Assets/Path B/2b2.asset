@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89c4239c1081405a989fbc1f8598583, type: 3}
+  m_Name: 2b2
+  m_EditorClassIdentifier: 
+  storyText: "You gesture to his knife. \n\"Hey that is pretty cool what does it
+    d-\"\n\nYour question is cut short as Contestant 5 drives the knife into your
+    stomach. As you collapse you mutter your last words\n\n\"Oh it does that\"\n\nYou
+    have died."
+  nextStates:
+  - {fileID: 11400000, guid: 5910a304ec31149f0b2276fbfa22cb50, type: 2}

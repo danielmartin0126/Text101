@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89c4239c1081405a989fbc1f8598583, type: 3}
+  m_Name: 7a1
+  m_EditorClassIdentifier: 
+  storyText: 'You plop down on the ground trying to catch your breath. The intercom
+    plays a small victorious tune.
+
+
+    "PUNCHATHON HAS CONCLUDED. CONTESTANT 7
+    IS VICTORIOUS"
+
+
+    A concealed door in the side of the arena opens letting
+    sunlight in. A security guard walks in. In an impatient tone he yells to you
+    while gesturing outside.
+
+
+    "HEY BUDDY. Beat it! Time to go"
+
+
+    You gather
+    yourself up and manage to hobble towards the door. As you pass the security guard
+    he stops you and hands you a small brass medal. You continue out into the sun.
+    It takes a moment for your vision to adjust but once it does you see the sidewalk
+    and other pedestrians walking by. No one pays you much mind despite your condition.
+
+
+    You
+    look back at the building and read the sign across the front.
+
+
+    "STINKY PETE''S
+    DISCOUNT FURNATURE"
+
+
+    You walk away a victorious Punchathon champion.
+
+
+    You
+    have won.'
+  nextStates:
+  - {fileID: 11400000, guid: 56e56131820b84bc398b439b100f3100, type: 2}

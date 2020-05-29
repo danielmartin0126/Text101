@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89c4239c1081405a989fbc1f8598583, type: 3}
+  m_Name: Situation 1b
+  m_EditorClassIdentifier: 
+  storyText: "Fighting immediately erupts in the circle as you begin to sob. Contestant
+    5 looks over at you and begins to laugh. \"HAH LOOK AT THE BABY\". He walks over
+    to you shoving others out of the way. As he gets up to you reveals a concealed
+    knife and giggles. \n\nSelect an action:\n1. Get the attention of the referee.
+    Stabbing is against the rules. Only punching.\n2. Let him stab you"
+  nextStates:
+  - {fileID: 11400000, guid: faaaca9173f3a4e639a07c9f92638ecb, type: 2}
+  - {fileID: 11400000, guid: 9880d6e3e235f4b319d9172f4cc57489, type: 2}

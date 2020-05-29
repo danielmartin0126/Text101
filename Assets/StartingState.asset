@@ -31,3 +31,7 @@ MonoBehaviour:
     2: Cry
 
     3: Wait'
+  nextStates:
+  - {fileID: 11400000, guid: de579fa31179a4b988d911b5d8b9811d, type: 2}
+  - {fileID: 11400000, guid: 76e5161e98b8b461ba71f3f8861be22b, type: 2}
+  - {fileID: 11400000, guid: 3d3e61265712e4e80adcbc6f103bc847, type: 2}

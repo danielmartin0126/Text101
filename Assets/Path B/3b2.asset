@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89c4239c1081405a989fbc1f8598583, type: 3}
+  m_Name: 3b2
+  m_EditorClassIdentifier: 
+  storyText: 'You lay down on the ground and spread out your arms and legs.
+
+
+    "HAVE
+    AT IT BOYS! PUNCH ME GOOD!"
+
+
+    After a brief hesitation you are completely
+    surrounded by fists. You can barely make out who is punching you. As the pummeling
+    continues you think to yourself
+
+
+    "Was this a bad idea?"
+
+
+    Before you
+    can answer that question you die.
+
+
+    You have died.'
+  nextStates:
+  - {fileID: 11400000, guid: 5910a304ec31149f0b2276fbfa22cb50, type: 2}

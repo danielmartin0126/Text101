@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89c4239c1081405a989fbc1f8598583, type: 3}
+  m_Name: 4c1
+  m_EditorClassIdentifier: 
+  storyText: 'You both run to the wall. Crudely put together metal plating. You run
+    your hand along the wall as you run down it, constantly scanning it.
+
+
+    About
+    halfway around the arena you noice what appears to be the outline of a door.
+    No handle on it. You gently push on the door and it moves a bit but stops. As
+    if there were a drop bar holding it shut
+
+
+    Select an action:
+
+
+    1. Kick
+    the door
+
+    2. Tackle the door together'
+  nextStates:
+  - {fileID: 11400000, guid: 3476db510dd964b66b65b8736e1f0dd6, type: 2}
+  - {fileID: 11400000, guid: 8a9c3b802c3694603ba20e8e98581a3b, type: 2}

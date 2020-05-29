@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89c4239c1081405a989fbc1f8598583, type: 3}
+  m_Name: 3a1
+  m_EditorClassIdentifier: 
+  storyText: "You talk over to Contestant 4's corpse and yoink the knife still stuck
+    in face. Before you can even stand up you hear the buzzer sound again. \n\n\"NONPUNCHING
+    ACTIVITY DETECTED. CONTESTANT 7 DISQUALIFIED\"\n\nYou look up just in time to
+    see the giant claw falling down on you. It completely encloses around you and
+    begins to whisk you up. Through the arms of the claw you can see the others watching.
+    Then it goes dark. You can't see where you are being taken. \n\nA loud bang and
+    the claw opens spilling you onto the ground. You're nearly blinded by the spotlight
+    on you. To your side to see Contestant 5's body. Looking out you can barely make
+    out the soldiers that make up the firing squad. \n\nYou have died. "
+  nextStates:
+  - {fileID: 11400000, guid: 5910a304ec31149f0b2276fbfa22cb50, type: 2}

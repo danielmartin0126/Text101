@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89c4239c1081405a989fbc1f8598583, type: 3}
+  m_Name: Situation 1a
+  m_EditorClassIdentifier: 
+  storyText: "Fighting immediately erupts in the circle. You turn to face Contestant
+    6. He stares back at you with fear in his eyes. You stand a full head above him.
+    Shaking he manages to meekly raise his fists. \n\nULTIMATE PUNCH!\n\nYour fists
+    collide with him square in the chest. He explodes into a burst a red mist and
+    his organs begin to rain from the sky. You hear someone yell out \"HEY WHO THREW
+    THIS SPLEEN AT ME!?\". You see Contestant 5 angrily waving a spleen in the air.\n\nSelect
+    an action:\n1. Shrug and point at Contestant 4\n2. Stand there nonchalantly\n3.
+    Shout back \"I DID YOU JAGALOON!\" and throw another organ at him "
+  nextStates:
+  - {fileID: 11400000, guid: bfa94cbf4b2c847798a401872bc04f48, type: 2}
+  - {fileID: 11400000, guid: 8747447ea6092487e83444f5b0f45dee, type: 2}
+  - {fileID: 11400000, guid: b89f15643386c4d1998185c56e44cf81, type: 2}

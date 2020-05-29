@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89c4239c1081405a989fbc1f8598583, type: 3}
+  m_Name: Situation 1c
+  m_EditorClassIdentifier: 
+  storyText: 'Fighting immediately erupts in the circle. You watch as others pair
+    off and punch for their lives.
+
+
+    You feel a tap on your shoulder. Turning
+    around you see Contestant 6. You look down to him and he cautiously raises his
+    fists. "I think we''re supposed to fight now" he squeaks out. He starts to wind
+    up his punch and states "Ok here I go!"
+
+
+    Select an action:
+
+    1. Block
+    him punch
+
+    2. Let him punch you'
+  nextStates: []

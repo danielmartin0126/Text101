@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89c4239c1081405a989fbc1f8598583, type: 3}
+  m_Name: 5c1
+  m_EditorClassIdentifier: 
+  storyText: "With all your might kick the door where handle should be. With a loud
+    bang the door rattles in its frame but still stands strong.\n\n\"I don't know
+    if I can kick this down\" \n \nYou look back to Contestant 6. He places his hand
+    on your shoulder and looks into your eyes.\n\n\"Ima yeet this bitch\"\n\nHe backs
+    up a bit to get a running start. With an explosion of previously unfathomable
+    fury Contestant 6 runs at the door and unleashes a might haymaker square into
+    the center of it. The door crumples in half and blows open. You hear a brief
+    yell as it does.\n\nSunlight pours in from outside as you both step through the
+    threshold. A security guard is on the ground rubbing the back of it head.\n\n\"HEY
+    YOU GUYS NEED TO WATCH OUT THAT HURT A LOT. WHAT ARE YOU DOING OPENING DOORS
+    LIKE THAT ANYWAY IT'S DANGEROUS\"\n\nYou both ignore him and walk out onto the
+    sidewalk and take in the city around you. Contestant 6 nudges you and gestures
+    to the front of the building you just left. The signage reads: \n\n\"STINKY PETES
+    DISCOUNT FURNATURE\"\n\nHe laughs a little bit.\n\n\"That's how I got here! I
+    came because I was shopping for a new coffee table\"\n\nYou think back to how
+    your morning had started with a mission to find a night stand for your bedroom.\n\nConfused
+    and still without a nightstand you begin to walk home.\n\nYou have escaped the
+    Punchathon."
+  nextStates:
+  - {fileID: 11400000, guid: 56e56131820b84bc398b439b100f3100, type: 2}

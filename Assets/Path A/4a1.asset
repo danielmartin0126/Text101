@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c89c4239c1081405a989fbc1f8598583, type: 3}
+  m_Name: 4a1
+  m_EditorClassIdentifier: 
+  storyText: 'You run full speed at Contestant 3, screaming and flailing your arms
+    around. The two of you collide violently and fall to the ground. In the ensuing
+    scuffle you punch as you have never punched before.
+
+
+    In the end you prevail.
+    Standing exhausted you look over to see Contestant 2 in a similar state leaving
+    behind a defeated Contestant 1. Only the two of you remain.
+
+
+    Select an action:
+
+
+    1.
+    Take a nap
+
+    2. Run at Contestant 2'
+  nextStates:
+  - {fileID: 11400000, guid: 573735ab91c404c07b2071fb160e3e9f, type: 2}
+  - {fileID: 11400000, guid: edc402b16a81c403fab60ca2dda5f955, type: 2}
