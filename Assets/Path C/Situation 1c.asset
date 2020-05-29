@@ -28,4 +28,6 @@ MonoBehaviour:
     him punch
 
     2. Let him punch you'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: d473f5930ffd64616b159895d0be6abd, type: 2}
+  - {fileID: 11400000, guid: af4d99d14cff049b9bfec8d750e37c91, type: 2}

@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c89c4239c1081405a989fbc1f8598583, type: 3}
   m_Name: Win
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: You win.
+  nextStates:
+  - {fileID: 11400000, guid: 66a3d2d9aaba74a3996f66081cdafc5a, type: 2}
