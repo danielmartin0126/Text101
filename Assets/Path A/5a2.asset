@@ -16,5 +16,5 @@ MonoBehaviour:
     you are barely able to stand.\n\nYou are nearly within striking range. \n\nSelect
     an action:\n\n1. Throw a right hook\n2. Hit him with a jab"
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 97187e9fbcace4fc395ad6448e2a9c41, type: 2}
+  - {fileID: 11400000, guid: 3f08be559678e4db0a9d92b366443696, type: 2}

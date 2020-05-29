@@ -25,5 +25,5 @@ MonoBehaviour:
 
     2. Continue screaming'
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: ab011bd2f59d7450c85f49e7a2c8ef3d, type: 2}
+  - {fileID: 11400000, guid: 9d37146f9baa5416b928613081affb8e, type: 2}

@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: Gameover
   m_EditorClassIdentifier: 
   storyText: Press 1 to start over
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 66a3d2d9aaba74a3996f66081cdafc5a, type: 2}

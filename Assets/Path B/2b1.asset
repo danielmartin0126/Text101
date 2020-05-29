@@ -20,4 +20,6 @@ MonoBehaviour:
     waiting for someone to continue the fighting.\n\nSelect an action:\n\n1. Turn
     to fight Contestant 6\n2. Lay on the ground and request the other contestants
     punch you to death"
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 62cece65572a94b91827f3d61f4ce4e8, type: 2}
+  - {fileID: 11400000, guid: 376786314f3fc426f9041ec85ecd2257, type: 2}
